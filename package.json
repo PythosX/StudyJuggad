@@ -1,0 +1,10 @@
+{
+  "name": "studyjugaad-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StudyJugaad AI hackathon MVP",
+  "scripts": {
+    "start": "python -m http.server 4173",
+    "test": "node --check app.js"
+  }
+}
